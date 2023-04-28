@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 27,
+    "editor.inlayHints.fontSize": 21,
+    "markdown.preview.fontSize": 21,
+    "screencastMode.fontSize": 21,
+    "editor.fontFamily": "Consolas, 'Courier New',poppins",
+    "terminal.integrated.cursorWidth": 4,
+    "terminal.integrated.fontSize": 23,
+    "terminal.integrated.fontWeight": "normal",
+    "workbench.sideBar.location": "left",
+    "editor.cursorStyle": "block",
+    "editor.wordWrap": "on",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.accessibilityPageSize": 10
+}
